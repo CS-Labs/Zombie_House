@@ -1,0 +1,24 @@
+# Blender MTL File: 'zombie.blend'
+# Material Count: 2
+
+newmtl Material.001
+Ns 94.117647
+Ka 0.179085 0.179085 0.179085
+Kd 0.184314 0.168627 0.184314
+Ks 0.494118 0.494118 0.494118
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\van_d\Desktop\ZombiePack\Zombie Pack\zomby_light.png
+
+newmtl Material1
+Ns 94.117647
+Ka 0.639216 0.639216 0.639216
+Kd 0.639216 0.639216 0.639216
+Ks 0.494118 0.494118 0.494118
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\van_d\Desktop\ZombiePack\Zombie Pack\ribs_light.png
