@@ -30,7 +30,7 @@ Blood spatters: http://www.vecteezy.com/free-vector/blood-drip
 8-bit font: http://www.dafont.com/8bit-wonder.font
 Zombie Silhouettes: http://crhanks.deviantart.com/art/Zombie-Silhouettes-157548319
 Zombie Model: http://tf3dm.com/3d-model/zombie-pack-5-zombies-fully-rigged-animated-5522.html
-Object Importer: http://www.interactivemesh.org/models/jfx3dimporter.html
+Object Importer: http://www.interactivemesh.org/models/jfx3dimporter.html (Please see separate License for more information) 
 Zombie breathing sound: https://www.freesound.org/people/Huminaatio/sounds/189281/?page=2#comment
 Heart beat sound: https://www.freesound.org/people/lovinhearts/sounds/36051/
 Running sounds: https://www.freesound.org/people/zombiechaser3/sounds/134991/
